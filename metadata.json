@@ -1,0 +1,8 @@
+{
+  "name": "Coil Snake",
+  "description": "Two snakes, one floating island. Hop over trouble, lasso the fruit, and outlast your rival in single-player, local 2-player, or Phone vs Phone hotspot multiplayer.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

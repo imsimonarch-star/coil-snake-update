@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Coil Snake</string>
+    <string name="tagline">Two snakes, one floating island. Hop over trouble, lasso the fruit, and outlast your rival.</string>
+    <string name="choose_mode">Choose a mode</string>
+    <string name="mode_single_title">Single Player</string>
+    <string name="mode_single_desc">One snake, all on your own. Beat your best score.</string>
+    <string name="mode_local_title">2P Local</string>
+    <string name="mode_local_desc">Two snakes, one screen or keyboard. Higher score wins.</string>
+    <string name="mode_net_title">Phone vs Phone</string>
+    <string name="mode_net_desc">Two phones, one hotspot. One hosts, one joins.</string>
+    <string name="music_credit">Music: “Jaunty Gumption” by Kevin MacLeod (incompetech.com), licensed under CC BY 4.0.</string>
+    <string name="btn_start">Start</string>
+    <string name="btn_back">Back</string>
+    <string name="btn_resume">Resume</string>
+    <string name="btn_restart">Restart</string>
+    <string name="btn_menu">Menu</string>
+    <string name="btn_rematch">Rematch</string>
+    <string name="btn_pause">Pause</string>
+    <string name="btn_connect">Connect</string>
+    <string name="btn_jump">JUMP</string>
+    <string name="title_paused">Paused</string>
+    <string name="title_game_over">Game over</string>
+    <string name="new_best_badge">NEW BEST SCORE</string>
+</resources>
